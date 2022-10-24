@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">La2</string>
+    <string-array name="mode">
+        <item>Word/s</item>
+        <item>Symbol/s</item>
+    </string-array>
+</resources>
